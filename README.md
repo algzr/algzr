@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-✒️ I am a data journalist
-🇳🇱 based in The Netherlands
-💻 trying to figure out GitHub.
+✒️ I am a data journalist#
+🇳🇱 based in The Netherlands#
+💻 trying to figure out GitHub.#
 
 <!--
 **algzr/algzr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
